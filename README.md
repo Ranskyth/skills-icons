@@ -9,8 +9,14 @@ Showcase your tech stack with clean, customizable icons, just list the technolog
 
 ### Available Languages 🌐
 
-- English ⬅
-- [中文 (Chinese)](./i18n/zh-CN/README.md)
+- 🇬🇧 English ⬅
+- 🇨🇳 [中文 (Chinese)](./i18n/zh/README.md)
+- 🇪🇸 [Español (Spanish)](./i18n/es/README.md)
+- 🇮🇹 [Italiano (Italian)](./i18n/it/README.md)
+- 🇷🇺 [Русский (Russian)](./i18n/ru/README.md)
+- 🇹🇷 [Türkçe (Turkish)](./i18n/tr/README.md)
+- 🇵🇹 [Português (Portuguese)](./i18n/pt/README.md)
+- 🇩🇪 [Deutsch (German)](./i18n/de/README.md)
 
 > [!IMPORTANT]
 > We'd really appreciate it if you would consider starring our repository! It helps us gain visibility and support the project.
